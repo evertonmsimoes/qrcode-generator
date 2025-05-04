@@ -28,5 +28,5 @@ public class QrCodeController {
             return  ResponseEntity.internalServerError().build();
         }
 
-    }""
+    }
 }
